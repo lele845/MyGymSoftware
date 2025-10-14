@@ -17,4 +17,6 @@ Funzionalità principali
 Installazione
 1. Clona la repository:
    ```bash
-   git clone https://github.com/lele845/MyGymSoftware.git
+   https://github.com/lele845/MyGymSoftware.git
+Questo progetto è stato realizzato dal team di **MyGym**:
+-Raffaele Cirillo [] [
